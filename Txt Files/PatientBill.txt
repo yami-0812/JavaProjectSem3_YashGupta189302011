@@ -1,0 +1,4 @@
+tanya:
+aspirin   2   Rs.100
+Total Bill: Rs.100
+NEW BILL

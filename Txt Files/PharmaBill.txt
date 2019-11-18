@@ -1,0 +1,4 @@
+gupta:
+crocin   100   Rs.2250.0
+Total Bill: Rs.2250
+NEW BILL

@@ -1,0 +1,3 @@
+0001 crocin 30 795
+2 rantac 2 800
+3 aspirin 50 198
